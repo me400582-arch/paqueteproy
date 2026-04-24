@@ -1,6 +1,7 @@
 def solve_example(input_data):
     """
-    A placeholder solver following the backtracking pattern. HOLA eSTO ES PAPAPPAPAPAAPPAAP
+    A placeholder solver following the backtracking pattern. HOLA eSTO 
+    PARA VER EL FUNCIONAMIENTO DE LOS TESTS.
 
     Args:
         input_data (list): The problem constraints.
